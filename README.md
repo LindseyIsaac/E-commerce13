@@ -2,8 +2,8 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
+This repo displays functional Express.js API's.
+It is backend.
 ## Table of Contents (Optional)
 
 - [Installation](#installation)
@@ -13,7 +13,13 @@ Provide a short description explaining the what, why, and how of your project. U
 
 ## Installation
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+In order to start clone the repo to your system and then<br>
+
+- Run mysql in your terminal
+- source db/schema.sql
+- npm run seed (no s at the end!)
+- npm start
+
 
 ## Usage
 
@@ -21,7 +27,7 @@ Provide instructions and examples for use. Include screenshots as needed.
 
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
 
- ![alt text](assets/images/screenshot.png)
+ ![insomnia](/images/Capture.PNG)
  
 ## Credits
 
@@ -35,3 +41,7 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 https://github.com/LindseyIsaac/E-commerce13
 
 ## License
+
+MIT License
+
+Copyright (c) 2023 Lindsey
