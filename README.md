@@ -4,6 +4,7 @@
 
 This repo displays functional Express.js API's.
 It is backend.
+
 ## Table of Contents (Optional)
 
 - [Installation](#installation)
@@ -15,8 +16,9 @@ It is backend.
 
 In order to start clone the repo to your system and then<br>
 
-- Run mysql in your terminal
+- Run mysql -u root -p in your terminal
 - source db/schema.sql
+In a new terminal ()do not close the first terminal<br>
 - npm run seed (no s at the end!)
 - npm start
 
@@ -35,6 +37,9 @@ In order to start clone the repo to your system and then<br>
 ***Jacqueline Martinez***<br>
 
 https://github.com/LindseyIsaac/E-commerce13
+
+Video submission link:
+
 
 ## License
 
